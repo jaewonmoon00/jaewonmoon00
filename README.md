@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jaewon.moon@mail.mcgill.ca**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ow47rS7RabdkbxyhjO7hxaajV_6lO89yS9oH3NXMf8w/edit?tab=t.0](https://docs.google.com/document/d/1ow47rS7RabdkbxyhjO7hxaajV_6lO89yS9oH3NXMf8w/edit?tab=t.0)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w7p2oSn5hlRK2BbQkL25QjFgXRRR1Obi/view?usp=sharing](https://drive.google.com/file/d/1w7p2oSn5hlRK2BbQkL25QjFgXRRR1Obi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
