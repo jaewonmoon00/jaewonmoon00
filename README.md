@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaewon</h1>
 <h3 align="center">Born in Korea, McGill CS–AI graduate, now working as an AI engineer in Canada</h3>
 
-- 🛠️ I’m building **O’llo** — “Hello, at the right time.”  
+- 🛠️ I’m building **[O’llo](https://ollo.now)** — “Hello, at the right time.”  
   A relationship-practice app for staying close with the people who matter.
 
 - 📫 How to reach me **jaewon.moon@mail.mcgill.ca**
